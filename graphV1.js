@@ -3,7 +3,7 @@
 
 // const v2Url = 'https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2'
 // const url = 'muteHttpExceptions'
-// const TEST_API_KEY ="a8806c9667912df4bfd4bc99ec7847ff";
+// const TEST_API_KEY ="";
 // const v3Url = `https://gateway.thegraph.com/api/${TEST_API_KEY}/subgraphs/id/0x9bde7bf4d5b13ef94373ced7c8ee0be59735a298-2`;
 // const sushiURL = 'https://api.thegraph.com/subgraphs/name/sushiswap/exchange'
 
