@@ -1,7 +1,7 @@
 const dogApiUrl = 'https://dog.ceo/api/breeds/image/random';
 const v2Url = 'https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2'
 const url = 'muteHttpExceptions'
-const GRAPH_KEY ="0db920fba7c27f6be99321ab95fd5e05";
+const GRAPH_KEY ="key";
 const v3SubgraphId = `0x9bde7bf4d5b13ef94373ced7c8ee0be59735a298-2`;
 const baseUrl = `https://gateway.thegraph.com/api/${GRAPH_KEY}/subgraphs/id/`;
 const exchangeInformation = {
@@ -10,7 +10,7 @@ const exchangeInformation = {
 
   }
 }
-const API_KEY = "0db920fba7c27f6be99321ab95fd5e05";
+const API_KEY = "key";
 const api = `https://gateway.thegraph.com/api/${API_KEY}/subgraphs/id/0x9bde7bf4d5b13ef94373ced7c8ee0be59735a298-2`
 
 
