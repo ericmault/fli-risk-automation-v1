@@ -119,7 +119,7 @@ function populateCells() {
 
 function eth_call(payload){
 
-infura_url = "https://mainnet.infura.io/v3/7dcff0833d954e22b14f6084a0b48776"
+infura_url = "https://mainnet.infura.io/v3/key"
 
 var options = {
 'method' : 'post',
